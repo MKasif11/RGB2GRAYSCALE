@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image_path = 'gojo.jpeg'
+image_path = 'image.jpeg'
 
 bgr_image = cv2.imread(image_path)
 
